@@ -1,0 +1,33 @@
+.top{
+    height:230px;
+    width:1520px;
+    background-color: rgb(179, 220, 236);
+    margin-top:-13px;
+}
+.main{
+    height:300px;
+    width:1300px;
+    margin-left: 110px;
+    margin-top: 20px;
+    border:2px solid;
+    background: lightgoldenrodyellow;
+}
+input{
+    font-size: 18px;
+    height:26px
+}
+button{
+    width:80px;
+    height:25px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+.mid{
+    height:70px;
+    width:1300px;
+    margin-left:110px;
+    margin-top:20px;
+    border: 2px solid;
+}
